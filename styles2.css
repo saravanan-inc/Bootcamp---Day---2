@@ -1,0 +1,38 @@
+body {
+  /* background-color: rgba(0, 0, 0, 0.4); */
+}
+
+.container {
+  /* position: static; */
+  border: 2px solid green;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Relative */
+/* Absolute */
+.relative {
+  /* position: relative; */
+  /* top: 10px; */
+}
+
+/* .fixed {
+  position: fixed;
+
+} */
+
+.absolute {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+  background: white;
+  transform: translate(-50%, -50%);
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}

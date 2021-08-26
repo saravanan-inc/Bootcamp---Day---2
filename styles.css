@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  margin: 20px;
+}
+
+.display {
+  color: red;
+}
+
+.inline {
+  display: inline;
+}
+
+.none {
+  display: none;
+}
+
+.inline-block {
+  display: inline-block;
+}
