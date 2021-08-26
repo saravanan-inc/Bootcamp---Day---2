@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+    border: 2px solid springgreen;
+    padding: 10px;
+}
+
+div > * {
+    color: blue;
+}
+
+
+.display-none {
+    display: none;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
